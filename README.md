@@ -1,1 +1,2 @@
-# TC3063_Data-Science-and-Big-Data-Analytics
+# TC3063 Data Science and Big Data Analytics
+Repo with some class resources & notebooks
